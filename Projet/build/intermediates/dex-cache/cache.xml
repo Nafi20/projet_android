@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cheikh_Mouride\.android\build-cache\9db60c50459f64cf147de36a5b8ffff961b0940a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\android\Projet\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8240205ea3bef5fa529f89434dcb042eb2b0e4ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cheikh_Mouride\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\android\Projet\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_428b867c9a25f0ebda9651037912ca08bcf3f6f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cheikh_Mouride\.android\build-cache\d70540789e22e5b062015232248302be351e48e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\android\Projet\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a37c6ec3f1f042030bac9c2f7e8ab1940411780c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\Projet\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\android\Projet\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_84dcb634082ccd7f497e5cbd464f55532e59ee4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cheikh_Mouride\.android\build-cache\e8ea46bd026de44ae0ade4d583c5f6a12341b01e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\android\Projet\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6755dbac26ac2d8a2976ec99e5fc510f8653fe00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cheikh_Mouride\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\android\Projet\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_d0f9a5a75b3f061dfed283951efb1cbc5531f481\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android\Projet\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f4248ecc7930196d8db32f015d383e70ba895a2b">
+        <dex dex="C:\android\Projet\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_53209e1626fe309a57564cc90d0d1abb9132f29f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cheikh_Mouride\.android\build-cache\16b1b243144ead6507f62f9f7f76f2d9f732c0a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\android\Projet\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f5f16a7c2f1649950cede9c35a64cedd8cc9791\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cheikh_Mouride\.android\build-cache\a8f802bba2490173af483634dd5ffa847dd17c8a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\android\Projet\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7f448550c539fdf3226bc0f539703556acb4ead\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cheikh_Mouride\.android\build-cache\dbb1594bd153c63b14a695eb809f71b05d0c67f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\android\Projet\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78d4837c46dd7ee01f4fddd9aa3d8272ce853cd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cheikh_Mouride\.android\build-cache\98d431aed9fc169cc198eeb708207139cbf423bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\android\Projet\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_972159bae0da2dd5e6f405563fc023fa7baa026d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cheikh_Mouride\.android\build-cache\731211e89f4a077d0dab1de46dbfab227f99cf78\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\android\Projet\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f88ef9c8acfd019c16112a1bf3b6d36ca3c9eeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cheikh_Mouride\.android\build-cache\136a33dbfbd88f1a1edd504534ca790a8d71194f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\android\Projet\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2d2f7678bdb5462b2f58c7a1f9083422bc43067\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cheikh_Mouride\.android\build-cache\4cd715924eb61d14a4a5d87728067214309e10c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\android\Projet\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34f089133f3e9267a4835d1b061007c2ba02bd24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cheikh_Mouride\.android\build-cache\ea6f005e44323a600b7871769fb99df28a0836a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\android\Projet\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e204ee366b2bb7b56def0d276f2a07f9054843b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cheikh_Mouride\.android\build-cache\25c3164d7411d9a271dcb96db3dbf3f716c2b672\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\android\Projet\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72455150c6db0d5244e208a5c20e60d08f630f61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cheikh_Mouride\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\android\Projet\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_37060140597c20603140f88bcce093e26e610214\classes.dex" />
+    </item>
+
+</items>

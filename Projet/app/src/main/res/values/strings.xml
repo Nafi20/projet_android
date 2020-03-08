@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mouride Banque</string>
+    <string name="connexion">Se Connecter</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Mot de Passe (optional)</string>
+    <string name="action_sign_in">Connecter ou Inscrire</string>
+    <string name="action_sign_in_short">Inscrivez Vous</string>
+    <string name="error_invalid_email">Votre email est invalide</string>
+    <string name="error_invalid_password">Mot de passe courte</string>
+    <string name="error_incorrect_password">Mot de passe incorrecte</string>
+    <string name="error_field_required">Svp remplire les champs</string>
+    <string name="permission_rationale">"Les autorisations de contacts sont nécessaires pour la fourniture de courrier
+        finitions."
+    </string>
+</resources>

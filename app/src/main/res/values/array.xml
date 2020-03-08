@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="devises">
+        <item>CFA</item>
+        <item>EURO</item>
+        <item>DOLLAR</item>
+    </array>
+    <array name="value">
+        <item>CFA</item>
+        <item>EURO</item>
+        <item>DOLLAR</item>
+    </array>
+</resources>

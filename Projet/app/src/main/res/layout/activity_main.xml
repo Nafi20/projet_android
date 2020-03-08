@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.iam.activities.MainActivity"
+    android:orientation="vertical"
+    android:background="@drawable/bg">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingTop="100dp">
+
+
+    <EditText
+        android:textColor="#fff"
+        android:textColorHint="#fff"
+        android:background="@drawable/edittextstyle"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:id="@+id/login"
+        android:ems="10"
+        android:hint="Nom d'utilisateur"
+        android:layout_gravity="center"
+        />
+
+    <EditText
+        android:textColor="#fff"
+        android:textColorHint="#fff"
+        android:background="@drawable/edittextstyle"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/password"
+        android:hint="Mot de Passe"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"/>
+    <EditText
+        android:textColor="#fff"
+        android:textColorHint="#fff"
+        android:background="@drawable/edittextstyle"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/repeatpassword"
+        android:hint="Repeter de mot passe"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"/>
+
+        <Button
+            android:id="@+id/btnInscription"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/buttonstyleselector"
+            android:backgroundTint="?attr/actionMenuTextColor"
+            android:text="Valider"
+            android:textColor="#fff" />
+    </LinearLayout>
+
+</RelativeLayout>
